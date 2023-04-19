@@ -22,4 +22,11 @@
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp"></LinearLayout>
 
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="354dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="376dp"></LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
