@@ -74,6 +74,14 @@
         android:layout_height="354dp"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="376dp"></LinearLayout>
+        tools:layout_editor_absoluteY="376dp">
+
+        <EditText
+            android:id="@+id/editTextTextPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPassword" />
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
