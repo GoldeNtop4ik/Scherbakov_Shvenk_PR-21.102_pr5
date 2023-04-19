@@ -9,6 +9,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
+        android:allowClearUserData="false"
         android:theme="@style/Theme.Sherbakov_Shvenk_PR21102_pr5"
         tools:targetApi="31">
         <activity
